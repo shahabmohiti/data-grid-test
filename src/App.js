@@ -6,7 +6,7 @@ import { DataGrid } from '@mui/x-data-grid';
 import { useDemoData } from '@mui/x-data-grid-generator';
 import SyncIcon from '@mui/icons-material/Sync';
 import Slider from '@mui/material/Slider';
-
+import './App.css'
 const SUBMIT_FILTER_STROKE_TIME = 500;
 
 function InputNumberInterval(props) {
